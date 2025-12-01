@@ -1,15 +1,17 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
-thumbnail: bbq.png
+title: Summer Food Traditions
+author: Michelle Dombrowski
+location: Milwaukee, WI
+thumbnail: summer-fun-times.png
 summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
 date: 2025-08-01
 layout: base
 tags:
-  - BBQ
-  - cookout
-  - community
+  - custard
+  - bratwurst
+  - family
+  - summer
+  - cheese
 ---
 
 # Generic Story Title
